@@ -1,1 +1,3 @@
-# educational_platform
+- Вводим: ```alembic revision --autogenerate -m "comment"```
+- Будет создана миграция
+- Дальше вводим: ```alembic upgrade heads```
